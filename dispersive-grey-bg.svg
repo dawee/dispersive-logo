@@ -9,8 +9,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1017.197"
-   height="250.69673"
+   width="1017.2"
+   height="300.70001"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
@@ -67,45 +67,45 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(177.19697,-227.25)">
+     transform="translate(177.19697,-177.24674)">
     <path
        inkscape:connector-curvature="0"
        style="fill:#2ad4ff;fill-opacity:1;stroke:none"
-       d="M 840,305.46875 335.65625,416.3125 840,325 l 0,-19.53125 z"
+       d="M 840,259.46875 335.65625,370.3125 840,279 l 0,-19.53125 z"
        id="path3772" />
     <path
        inkscape:connector-curvature="0"
        style="fill:#00d400;fill-opacity:1;stroke:none"
-       d="M 840,286.4375 335.6875,415.875 840,306.25 l 0,-19.8125 z"
+       d="M 840,240.4375 335.6875,369.875 840,260.25 l 0,-19.8125 z"
        id="path3770" />
     <path
        inkscape:connector-curvature="0"
        style="fill:#ffff00;fill-opacity:1;stroke:none"
-       d="M 840,267.0625 335.71875,415.4375 840,287.25 l 0,-20.1875 z"
+       d="M 840,221.0625 335.71875,369.4375 840,241.25 l 0,-20.1875 z"
        id="path3768" />
     <path
        inkscape:connector-curvature="0"
        style="fill:#ff6600;fill-opacity:1;stroke:none"
-       d="M 840,247.3125 335.71875,415 840,267.90625 840,247.3125 z"
+       d="M 840,201.3125 335.71875,369 840,221.90625 840,201.3125 z"
        id="path3766" />
     <path
        inkscape:connector-curvature="0"
        style="fill:#d40000;fill-opacity:1;stroke:none"
-       d="M 839.5,227.25 335.6875,414.5625 840,248.15625 l 0,-19.375 -0.5,-1.53125 z"
+       d="M 839.5,181.25 335.6875,368.5625 840,202.15625 l 0,-19.375 -0.5,-1.53125 z"
        id="path3764" />
     <path
        style="fill:#cccccc;fill-opacity:1;stroke:none"
-       d="m -177.19697,254.53601 512.91126,160.68331 0,0 L -177,273.36218 z"
+       d="m -177.19697,208.53601 512.91126,160.68331 0,0 L -177,227.36218 z"
        id="rect2989"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
     <path
        style="fill:#892ca0;fill-opacity:1;stroke:none"
-       d="M 840,324.25 335.625,416.75 840,343.5 l 0,-19.25 z"
+       d="M 840,278.25 335.625,370.75 840,297.5 l 0,-19.25 z"
        id="path3774"
        inkscape:connector-curvature="0" />
     <g
-       transform="matrix(3.8217483,0,0,3.8217483,-316.13654,-380.64697)"
+       transform="matrix(3.8217483,0,0,3.8217483,-316.13654,-426.64697)"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none;font-family:Virgo;-inkscape-font-specification:Virgo"
        id="flowRoot2998">
       <path
