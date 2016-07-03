@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="dispersive-grey-bg.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="643.93031"
+     inkscape:cy="486.63238"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1317"
+     inkscape:window-height="725"
+     inkscape:window-x="151"
+     inkscape:window-y="94"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3790" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:3.36475062000000014;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2985"
+       width="1067.9738"
+       height="540.83081"
+       x="-182.55826"
+       y="146.94678" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#2ad4ff;fill-opacity:1;stroke:none"
+       d="M 840,305.46875 335.65625,416.3125 840,325 l 0,-19.53125 z"
+       id="path3772" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#00d400;fill-opacity:1;stroke:none"
+       d="M 840,286.4375 335.6875,415.875 840,306.25 l 0,-19.8125 z"
+       id="path3770" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ffff00;fill-opacity:1;stroke:none"
+       d="M 840,267.0625 335.71875,415.4375 840,287.25 l 0,-20.1875 z"
+       id="path3768" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ff6600;fill-opacity:1;stroke:none"
+       d="M 840,247.3125 335.71875,415 840,267.90625 840,247.3125 z"
+       id="path3766" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#d40000;fill-opacity:1;stroke:none"
+       d="M 839.5,227.25 335.6875,414.5625 840,248.15625 l 0,-19.375 -0.5,-1.53125 z"
+       id="path3764" />
+    <path
+       style="fill:#cccccc;fill-opacity:1;stroke:none"
+       d="m -177.19697,254.53601 512.91126,160.68331 0,0 L -177,273.36218 z"
+       id="rect2989"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#892ca0;fill-opacity:1;stroke:none"
+       d="M 840 324.25 L 335.625 416.75 L 840 343.5 L 840 324.25 z "
+       id="path3774" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2998"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none;font-family:Virgo;-inkscape-font-specification:Virgo"
+       transform="matrix(3.8217483,0,0,3.8217483,-316.13654,-380.64697)"><flowRegion
+         id="flowRegion3000"><rect
+           id="rect3002"
+           width="542.85712"
+           height="192.85715"
+           x="61.42857"
+           y="185.21933"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#cccccc;font-family:Virgo;-inkscape-font-specification:Virgo" /></flowRegion><flowPara
+         id="flowPara3004">Dispersive</flowPara></flowRoot>  </g>
+</svg>
